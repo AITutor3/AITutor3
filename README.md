@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Hyeon-jung%20Shin&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20AITutorlab%20&fontSize=70&animation=fadeIn" />
 </p>
 
 ### 🚀 **Founder of AI Tutor Lab. Making AI accessible through code, content, and books.**
