@@ -59,8 +59,8 @@
 
 ### 📊 **GitHub Stats**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=transparent&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인ID]&layout=compact&theme=transparent&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AITutor3&show_icons=true&theme=transparent&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AITutor3&layout=compact&theme=transparent&hide_border=true" height="150" />
 </p>
 
 ---
